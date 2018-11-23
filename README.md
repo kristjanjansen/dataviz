@@ -10,16 +10,24 @@
 
 ---
 
+## Koduseks vaatamiseks
+
+https://teropa.info/loop/#/title
+
 ## Veel muusikat
 
 https://learningmusic.ableton.com/
+
 https://musiclab.chromeexperiments.com/Rhythm/
 
 https://fathom.info/miles-web/
+
 https://pudding.cool/2017/03/music-history/
+
 https://pudding.cool/2017/01/making-it-big/
-https://teropa.info/loop/#/title
+
 https://epok.tech/work/tendrils/
+
 http://www.georgeandjonathan.com
 
 ---
@@ -118,6 +126,7 @@ https://policyviz.com/podcast/
 ## Uudised
 
 http://www.visualisingdata.com/ 
+
 https://towardsdatascience.com/@bnj_cooley
 
 ---
