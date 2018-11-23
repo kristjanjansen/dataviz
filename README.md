@@ -1,8 +1,9 @@
 <center>
-<h3><big>Infograafika ja<br>andmevisualisatsioon</big><br><br>Infographics and data visualization</h3>
+<h3><big>Infograafika ja<br>andmevisualisatsioon</big><br><br>Infographics and data visualization<br><br>Vajuta <kbd>Alt ←</kbd> ja <kbd>Alt →</kbd> edasi-tagasi liikumiseks
 </center>
 
 ---
+
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RHnH6H7wAds?rel=0" frameborder="0" allowfullscreen></iframe>
 </center>
@@ -30,7 +31,7 @@ http://www.georgeandjonathan.com
 ---
 
 <center>
-<iframe src="https://player.vimeo.com/video/29684853" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Zg-C8AAIGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
 ---
@@ -96,6 +97,7 @@ https://datavizcatalogue.com/
 https://python-graph-gallery.com/
 
 http://numberpicture.com
+
 
 ---
 
@@ -244,10 +246,6 @@ https://www.facebook.com/okestonia
 
 ---
 
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5Zg-C8AAIGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
-
----
+### Ja lõpuks
 
 https://www.citylab.com/design/2015/08/a-grim-animation-of-all-the-nuclear-explosions-in-history/400709/
