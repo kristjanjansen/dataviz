@@ -10,11 +10,7 @@
 
 ---
 
-## Koduseks vaatamiseks
-
-https://teropa.info/loop/#/title
-
-## Veel muusikat
+## Veel muusikavisualisatsioone
 
 https://learningmusic.ableton.com/
 
@@ -29,6 +25,8 @@ https://pudding.cool/2017/01/making-it-big/
 https://epok.tech/work/tendrils/
 
 http://www.georgeandjonathan.com
+
+https://teropa.info/loop/#/title
 
 ---
 
@@ -47,10 +45,10 @@ http://www.georgeandjonathan.com
 ### Teeme nähtamatu nähtavaks
 
 http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html
-
 https://earth.nullschool.net
-
 http://radio.garden
+
+<br>
 
 ### Veel põhjusi
 
@@ -58,11 +56,17 @@ https://towardsdatascience.com/15-stunning-data-visualizations-and-what-you-can-
 
 ---
 
+### Ajalugu
+
+https://infowetrust.com/scroll/
+
+---
+
 <center><h2>Inimesed<h2></center>
 
 ---
 
-![](https://pbs.twimg.com/profile_images/814801665056505856/N1tzpocQ.jpg)
+<f-image src="https://pixelpioneers.co/imager/uploads/pioneers/380/Speaking-image-6_25c2603fcd80fc2aa4a784bfc41e1600.jpg" />
 
 ---
 
@@ -72,27 +76,89 @@ https://towardsdatascience.com/15-stunning-data-visualizations-and-what-you-can-
 
 https://www.visualcinnamon.com/blog
 
+<br>
+
+### Viimased tööd
+
+https://ich.unesco.org/dive/domain/
+https://www.theguardian.com/us-news/ng-interactive/2017/dec/20/bussed-out-america-moves-homeless-people-country-study
+
 ---
 
-![](https://c1.staticflickr.com/7/6214/6273558243_d4c70fb66b_b.jpg)
+<f-image src="https://c1.staticflickr.com/7/6214/6273558243_d4c70fb66b_b.jpg" />
 
 ---
 
 ## Moritz Stefaner
 
+### Blog
+
 https://truth-and-beauty.net/
 
+<br>
+
+### Viimased tööd
+
+https://truth-and-beauty.net/projects/multiplicity
 https://www.youtube.com/watch?v=yeC9v-iHJu0
+
+---
+
+<f-image src="https://cdn-images-1.medium.com/max/1440/1*QgRGyK0a-MeD532RaP-Ybg.gif" />
 
 ---
 
 ## Stefanie Posavec<br>& Giorgia Lupi
 
+http://www.dear-data.com/
+
 ---
 
 <center>
-<h2>Järjehoidjad</h2>
+<h2></h2>
 </center>
+
+---
+
+## Kuidas teemaga kursis olla?
+
+### Uudised
+
+http://www.visualisingdata.com/
+
+<br>
+
+### Blogid
+
+https://blog.datawrapper.de/
+
+https://flowingdata.com/
+
+https://policyviz.com/blog/
+
+http://vizualize.tumblr.com
+
+---
+
+## Podcastid
+
+http://datastori.es/
+
+https://policyviz.com/podcast/
+
+---
+
+## Raamatud
+
+https://www.visualcinnamon.com/resources/learning-data-visualization/books
+
+<br>
+
+### Tasuta
+
+http://libgen.io/
+
+https://datajournalismhandbook.org//handbook/two
 
 ---
 
@@ -106,40 +172,6 @@ https://python-graph-gallery.com/
 
 http://numberpicture.com
 
-
----
-
-## Podcastid
-
-### Data Stories
-
-http://datastori.es/
-
-Moritz Stefaner + Enrico Bertini
-
-### Policyviz
-
-https://policyviz.com/podcast/
-
----
-
-## Uudised
-
-http://www.visualisingdata.com/ 
-
-https://towardsdatascience.com/@bnj_cooley
-
----
-
-## Blogid
-
-https://flowingdata.com/
-
-https://policyviz.com/blog/
-
-http://vizualize.tumblr.com
-
-
 ---
 
 ## Andmed ja füüsiline maailm
@@ -148,17 +180,13 @@ http://vizualize.tumblr.com
 
 http://dataphys.org/list/gallery/
 
+<br>
+
 ### Dataspaces
 
 https://blog.truthlabs.com/dataspaces-ad0a2bb073bd
 
----
-
-## Andmed ja paber
-
-### Visualising Positive and Negative News
-
-https://www.behance.net/gallery/2489909/Visualising-Positive-and-Negative-News
+<br>
 
 ### Coloring Climate
 
@@ -166,15 +194,7 @@ http://coloringclimate.com/
 
 ---
 
-## Tehisintellekt ja masinõpe
-
-http://playground.tensorflow.org/
-
-https://distill.pub/
-
----
-
-## Mida pekki?
+## Mida?!?
 
 http://junkcharts.typepad.com/
 
@@ -184,13 +204,15 @@ http://thisisindexed.com/
 
 ---
 
-## Vana kool: ajalehtede infograafika
+## Ajalehtede infograafika
 
 ### Flickr
 
 https://www.flickr.com/photos/ffranchi/albums/72157594391287046
 
 https://www.flickr.com/groups/snd/pool/
+
+<br>
 
 ### Pinterest
 
@@ -208,6 +230,8 @@ https://www.pinterest.com/search/pins/?q=newspaper%20infographics
 
 https://www.flickr.com/photos/kuukosmonaut/sets/72157628038307615/
 
+<br>
+  
 ### Stat24 (mitteaktiivne)
 
 http://stat24.ee/
@@ -220,6 +244,8 @@ https://www.facebook.com/stat24ee-192903650814372/
 ### Mirko Känd: Kui turvaline on sinu kodukant?
 
 https://www.facebook.com/mirxz/videos/10155810555378563/
+
+<br>
 
 Allikas:
 
@@ -235,6 +261,8 @@ https://public.tableau.com/profile/christina025#!/vizhome/Sidukidfinish2/Arvelol
 
 https://public.tableau.com/profile/ann.kundla#!/vizhome/Arvelolevadsidukid/Detailnevaade
 
+<br>
+
 Allikas:
 
 https://www.mnt.ee/sites/default/files/content-editors/Failid/statistika/s6idukid/arvel-m1-310717.csv
@@ -247,6 +275,8 @@ https://www.mnt.ee/sites/default/files/content-editors/Failid/statistika/s6iduki
 
 https://opendata.riik.ee
 http://andmebaas.stat.ee/
+
+<br>
 
 ###  Kogukonnad
 
