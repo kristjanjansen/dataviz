@@ -27,7 +27,7 @@ new Vue({
   methods: { ...utils },
   template: `
   <div>
-    <f-fetch-data src="./README.md" v-slot="{ value: content }">
+    <f-fetch src="./README.md" v-slot="{ value: content }">
       <f-theme theme="blue">
         <f-content-slides
           :content="content"
@@ -35,7 +35,7 @@ new Vue({
           class="break"
         />
       </f-theme>
-    </f-fetch-data>
+    </f-fetch>
   </div>
   `
 });
