@@ -1,4 +1,4 @@
-import { components, utils } from "https://designstem.github.io/fachwerk/fachwerk.js";
+import { Vue, components, utils } from "https://designstem.github.io/fachwerk/fachwerk.js";
 
 for (const name in components) {
   Vue.component(name, components[name]);
