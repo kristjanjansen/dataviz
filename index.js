@@ -29,7 +29,7 @@ new Vue({
   <div>
     <f-fetch src="./README.md" v-slot="{ value: content }">
       <f-theme theme="blue">
-        <f-content-slides
+        <f-content
           :content="content"
           style="--emphasis: var(--yellow); height: 100vh; --f-content-slides-padding: calc(var(--base) * 8)  calc(var(--base) * 10);"
           class="break"
